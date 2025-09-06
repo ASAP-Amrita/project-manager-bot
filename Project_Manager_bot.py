@@ -86,3 +86,10 @@ async def update(ctx,id: str):
 
 
 bot.run(TOKEN)
+
+'''Completed till commit updates. 
+To do:
+- Update
+- List
+- Dynamic users
+'''
